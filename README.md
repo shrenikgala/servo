@@ -1,3 +1,9 @@
+#Links to the github repository and pull requests used for contribution :
+1)Repo: https://github.com/Shraddha512/servo   Link to pull request: https://github.com/servo/servo/pull/4118
+2)Repop: https://github.com/Shraddha512/rust-http  Link to pull request: https://github.com/servo/rust-http/pull/39
+3)Repo: https://github.com/juzer10/servo  Link to the pull request: https://github.com/servo/servo/pull/3718
+
+
 # The Servo Parallel Browser Project
 
 Servo is a prototype web browser engine written in the
